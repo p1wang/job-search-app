@@ -12,7 +12,7 @@ Features
   - Apply for jobs
   - Save Jobs
 
-The main purpose of the app is demonstrate full stack skills such as the following:
+The app demonstrates the following skills:
 - Client to Server CRUD operations using React Query and Axios
 - SQL data modeling
   - one to many relationship
